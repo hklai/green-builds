@@ -6,7 +6,7 @@
   
   <project name="envoyproxy/envoy" path="src/envoy" revision="9ecdc18bef2ea15104b3e9ae8011cc48c0536d6e" upstream="master"/>
   <project name="istio/api" path="go/src/istio.io/api" revision="24209c4d7c9713900ac7571dfc38dd2eeea3f167" upstream="master"/>
-  <project name="istio/fortio" path="go/src/istio.io/fortio" revision="ac46c6aed3f461b1d83f9118dc11174fba163f0f" upstream="master"/>
+  <project name="istio/fortio" path="go/src/istio.io/fortio" revision="e796d49d5551df238c8737a070e49dc69864bccb" upstream="master"/>
   <project name="istio/global-build" path="build" revision="fc0a36dc062c4d3cbf86ce3930e869c65359acba" upstream="master"/>
   <project name="istio/istio" path="go/src/istio.io/istio" revision="e905f919144177e6258b09588636782e4d55d582" upstream="master"/>
   <project name="istio/mixerclient" path="src/mixerclient" revision="b8948db16760777aadab04198e810250e4ec5e16" upstream="master"/>
