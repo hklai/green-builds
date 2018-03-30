@@ -4,8 +4,8 @@
   
   <default remote="github" revision="master" sync-j="4"/>
   
-  <project name="istio/api" path="go/src/istio.io/api" revision="64e9770daf900edc2a50fc4c57793f370cfdaf75" upstream="master"/>
+  <project name="istio/api" path="go/src/istio.io/api" revision="1e6e1c99aab41d28aa59c2e48afa4c4dad2da2da" upstream="master"/>
   <project name="istio/global-build" path="build" revision="bcdf4905c1a5eb6822507959553f64a20718a55d" upstream="master"/>
-  <project name="istio/istio" path="go/src/istio.io/istio" revision="6349f1457ed84be2e2bb5c684e5e23ee8ee7cb78" upstream="master"/>
+  <project name="istio/istio" path="go/src/istio.io/istio" revision="9e64e71342a04fe307e95361141bff31a8050f2c" upstream="master"/>
   <project name="istio/proxy" path="src/proxy" revision="96c32dbc780e5f76ac3deb671c65c2d4bbd7acd7" upstream="master"/>
 </manifest>
