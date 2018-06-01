@@ -6,6 +6,6 @@
   
   <project name="istio/api" path="go/src/istio.io/api" revision="9fb97f846d92471786cc737c53ddc63c68a29c23" upstream="master"/>
   <project name="istio/global-build" path="build" revision="569cfb50532373125c85facb13b034571b04e8e4" upstream="master"/>
-  <project name="istio/istio" path="go/src/istio.io/istio" revision="24ded8a37e40cafa253785854cd0500ede8f0752" upstream="master"/>
+  <project name="istio/istio" path="go/src/istio.io/istio" revision="52a196951e02972f016077b97db8407bf5154bdd" upstream="master"/>
   <project name="istio/proxy" path="src/proxy" revision="383534746b0c27bfc9b48a6b6141f1c200116261" upstream="master"/>
 </manifest>
